@@ -4,5 +4,6 @@ lib/
 res/
 include/
 bin/
+.vscode/
 LICENCE
 Makefile
