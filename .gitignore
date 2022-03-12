@@ -1,0 +1,8 @@
+vendor/
+docs/
+lib/
+res/
+include/
+bin/
+LICENCE
+Makefile
